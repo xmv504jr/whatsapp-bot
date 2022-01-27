@@ -1,5 +1,5 @@
 {
-  "name": "erzabot",
+  "name": "Sofys",
   "version": "1.1.2",
   "description": "WhatsApp Bot",
   "main": "index.js",
@@ -16,14 +16,7 @@
     "type": "git",
     "url": "git+https://github.com/inirey/whatsapp-bot.git"
   },
-  "keywords": [
-    "whatsapp-bot"
-  ],
-  "author": "sekha",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/inirey/whatsapp-bot/issues"
-  },
+
   "homepage": "https://github.com/inirey/whatsapp-bot",
   "dependencies": {
     "@adiwajshing/baileys": "github:melcanz/Baileys",
