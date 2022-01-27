@@ -500,7 +500,7 @@ global.dfail = (type, m, conn) => {
     private: 'gagal!! perintah ini hanya bisa di chat private',
     admin: 'akses di tolak! Perintah ini hanya untuk admin Group',
     botAdmin: 'gagal!! Jadikan bot sebagai admin terlebih dahulu',
-    unreg: 'Silahkan daftar untuk menggunakan fitur ini dengan cara mengetik:\n\n*#daftar nama.umur*\n\nContoh: *#daftar Arif.19*',
+    unreg: 'Silahkan daftar untuk menggunakan fitur ini dengan cara mengetik:\n\n*#daftar nama.umur*\n\nContoh: *#daftar Ar.19*',
     nsfw: 'NSFW tidak aktif'
   }[type]
   if (msg) return m.reply(msg)
